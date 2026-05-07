@@ -1,1 +1,1 @@
-# alu-blockchain
+African Leadership University Blockchain
